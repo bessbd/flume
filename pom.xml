@@ -748,6 +748,8 @@ limitations under the License.
                   <exclude>**/target/**</exclude>
                   <exclude>**/derby.log</exclude>
                   <exclude>**/metastore_db/</exclude>
+                  
+                  <exclude>.travis.yml</exclude>
                 </excludes>
               </configuration>
             </execution>
