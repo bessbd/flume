@@ -1,2 +1,2 @@
 language: java
-script: mvn clean install
+script: mvn -Dsurefire.rerunFailingTestsCount=10 clean install
