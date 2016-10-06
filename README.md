@@ -17,7 +17,7 @@ specific language governing permissions and limitations
 under the License.
 -->
 
-# Welcome to Apache Flume!
+# Welcome 2 Apache Flume!
 
 Apache Flume is a distributed, reliable, and available service for efficiently
 collecting, aggregating, and moving large amounts of log data. It has a simple
