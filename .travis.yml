@@ -22,3 +22,5 @@ install:
   -
 script:
   - cat /etc/mavenrc
+  - MAVEN_OPTS="-Xmx1m -XX:MaxPermSize=1m" mvn clean install -DskipTests
+  - mvn -v
